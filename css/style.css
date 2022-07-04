@@ -1,0 +1,27 @@
+header {
+    background-color: #4ea0ff;
+    margin-block-end: 0px;
+    background-image: url(../images/pattern.png);
+    margin-top: inherit;
+}
+
+#pattern {
+    background-size: auto;
+    background-repeat: repeat-x;
+
+}
+
+#logo {
+    width: 200px;
+    height: 100px;
+    margin: bottom 0px;
+
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h3 {
+    display: inline-block;
+}
