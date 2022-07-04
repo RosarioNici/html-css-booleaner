@@ -1,9 +1,9 @@
 header {
     background-color: #4ea0ff;
     background-image: url(../images/pattern.png);
+    background-repeat: repeat-x;
     background-size: contain;
-    height: 100%;
-
+    background-size: 25% 200%;
 }
 
 #pattern {
@@ -12,10 +12,12 @@ header {
 
 }
 
+
+
 #logo {
-    width: 200px;
-    height: 100px;
-    margin: bottom 0px;
+    width: 150px;
+    height: 75px;
+    margin-top: 10px;
 
 }
 
@@ -46,7 +48,7 @@ h3 {
 }
 
 ul {
-    margin-left: 2px;
+    margin-left: 4px;
     padding-left: 15px;
 }
 
@@ -54,4 +56,21 @@ body {
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
+}
+
+table {
+    text-align: left;
+}
+
+thead {
+    background-color: hsl(198deg 79% 51%);
+}
+
+th {
+    color: white;
+}
+
+.tcolor {
+    background-color: hsl(192deg 71% 82%);
+
 }
