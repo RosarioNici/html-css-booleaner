@@ -90,6 +90,12 @@ th {
     left: 20px;
 }
 
-#loremf {
+.loremf {
     color: aliceblue;
+}
+
+#loremf2 {
+    position: absolute;
+    top: 2.5px;
+    left: 20px;
 }
