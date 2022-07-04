@@ -78,3 +78,18 @@ th {
 .grey2 {
     color: grey;
 }
+
+.footer1 {
+    position: relative;
+
+}
+
+#loremf1 {
+    position: absolute;
+    top: 2.5px;
+    left: 20px;
+}
+
+#loremf {
+    color: aliceblue;
+}
