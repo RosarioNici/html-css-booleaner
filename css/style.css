@@ -61,6 +61,7 @@ body {
 table {
     text-align: left;
     border-collapse: collapse;
+    height: 300px;
 }
 
 thead {
